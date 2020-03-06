@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String [] args) {
-        System.out.println("GIT GUD");
+        System.out.println("This is the initial project");
     }
 }
